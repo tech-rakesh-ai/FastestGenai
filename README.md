@@ -1,6 +1,6 @@
-# GenAI Chat Completion
+# Fastest GenAI Using Different Open Source LLMs
 
-**GenAI Chat Completion** is a powerful and fast AI-based chat application built using Streamlit. This app allows users to interact with various state-of-the-art open-source Large Language Models (LLMs) and compare their response times. It provides a user-friendly interface where users can select multiple models, ask questions, and receive responses from each model, along with their respective inference times.
+**Fastest GenAI** is a powerful and fast AI-based chat application built using Streamlit. This app allows users to interact with various state-of-the-art open-source Large Language Models (LLMs) and compare their response times. It provides a user-friendly interface where users can select multiple models, ask questions, and receive responses from each model, along with their respective inference times.
 
 ## Features
 
